@@ -1,6 +1,6 @@
-package nl.daankoster.mathsolver.modules;
+package nl.daankoster.mathsolver.modules.types;
 
-import nl.daankoster.mathsolver.SolverModule;
+import nl.daankoster.mathsolver.modules.SolverModule;
 
 import java.util.HashMap;
 import java.util.Map;

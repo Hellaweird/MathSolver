@@ -7,9 +7,10 @@ import nl.daankoster.mathsolver.generator.MathProblemGenerator;
 import nl.daankoster.mathsolver.generator.types.MathProblemGGD;
 import nl.daankoster.mathsolver.generator.types.MathProblemKGV;
 import nl.daankoster.mathsolver.generator.types.MathProblemPrime;
-import nl.daankoster.mathsolver.modules.SolverModuleGGD;
-import nl.daankoster.mathsolver.modules.SolverModuleKGV;
-import nl.daankoster.mathsolver.modules.SolverModulePrime;
+import nl.daankoster.mathsolver.modules.SolverModule;
+import nl.daankoster.mathsolver.modules.types.SolverModuleGGD;
+import nl.daankoster.mathsolver.modules.types.SolverModuleKGV;
+import nl.daankoster.mathsolver.modules.types.SolverModulePrime;
 
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;

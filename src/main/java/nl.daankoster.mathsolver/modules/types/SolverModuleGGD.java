@@ -1,11 +1,7 @@
-package nl.daankoster.mathsolver.modules;
+package nl.daankoster.mathsolver.modules.types;
 
-import nl.daankoster.mathsolver.MathSolver;
-import nl.daankoster.mathsolver.SolverModule;
 import nl.daankoster.mathsolver.data.type.InputDataMultiInt;
-
-import java.util.ArrayList;
-import java.util.List;
+import nl.daankoster.mathsolver.modules.SolverModule;
 
 public class SolverModuleGGD implements SolverModule {
 

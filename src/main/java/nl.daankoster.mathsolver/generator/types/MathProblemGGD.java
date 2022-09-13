@@ -4,7 +4,7 @@ import nl.daankoster.mathsolver.MathSolver;
 import nl.daankoster.mathsolver.data.type.AnswerDataMultiInt;
 import nl.daankoster.mathsolver.data.type.InputDataMultiInt;
 import nl.daankoster.mathsolver.generator.MathProblemGenerator;
-import nl.daankoster.mathsolver.modules.SolverModuleGGD;
+import nl.daankoster.mathsolver.modules.types.SolverModuleGGD;
 
 import java.util.Random;
 

@@ -1,11 +1,8 @@
 package nl.daankoster.mathsolver.generator.types;
 
 import nl.daankoster.mathsolver.MathSolver;
-import nl.daankoster.mathsolver.data.type.AnswerDataMultiInt;
-import nl.daankoster.mathsolver.data.type.InputDataMultiInt;
 import nl.daankoster.mathsolver.generator.MathProblemGenerator;
-import nl.daankoster.mathsolver.modules.SolverModuleGGD;
-import nl.daankoster.mathsolver.modules.SolverModulePrime;
+import nl.daankoster.mathsolver.modules.types.SolverModulePrime;
 
 import java.util.HashMap;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package nl.daankoster.mathsolver;
+package nl.daankoster.mathsolver.modules;
 
 public interface SolverModule {
 
